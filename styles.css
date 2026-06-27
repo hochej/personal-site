@@ -113,6 +113,10 @@ footer p {
   margin-bottom: 0;
 }
 
+footer p + p {
+  margin-top: 10px;
+}
+
 @media (max-width: 560px) {
   body {
     font-size: 18px;
