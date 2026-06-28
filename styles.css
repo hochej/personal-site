@@ -55,10 +55,6 @@ p {
   margin-bottom: 22px;
 }
 
-.intro {
-  font-size: 21px;
-  line-height: 1.45;
-}
 
 .note {
   color: var(--muted);
@@ -149,9 +145,6 @@ footer p + p {
     font-size: 28px;
   }
 
-  .intro {
-    font-size: 20px;
-  }
 
   .photos {
     grid-template-columns: repeat(2, minmax(0, 1fr));
